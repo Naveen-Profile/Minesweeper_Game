@@ -1,4 +1,6 @@
 # Minesweeper_Game_ReadMe
+
+Minesweeper game development in java!!
 -->> Developed a Minesweeper game with different game modes, timer and explosion graphics!! Happy Coding !!
 
 -> The main class file is Minesweeper.java
